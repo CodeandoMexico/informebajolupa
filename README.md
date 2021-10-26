@@ -36,5 +36,4 @@ _Versión 1.0
 
 _Versión 2.0
 - Metodología / Tachi Villalba
-- Codeando México
--- @basicavisual @almarngl @ricardomiron
+- Codeando México /[@basicavisual](https://github.com/basicavisual/), [@almarngl](https://github.com/almarngl/), [@ricardomiron](https://github.com/ricardomiron/)

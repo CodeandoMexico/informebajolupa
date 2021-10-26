@@ -25,3 +25,16 @@ El propósito de este repositorio es que cualquier grupo de personas que quiera 
 
 ## Créditos
 
+_Versión 1.0
+- [Codeando Guadalajara](https://github.com/CodeandoGuadalajara/informebajolupa) / Desarrollo @thehackermonkey
+- Wikipolítica Jalisco
+- Tómala Ya
+- Techo
+- Anillo Primavera
+- CIMTRA
+- Calle sin acoso
+
+_Versión 2.0
+- Metodología / Tachi Villalba
+- Codeando México
+-- @basicavisual @almarngl @ricardomiron

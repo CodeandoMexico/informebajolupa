@@ -10,6 +10,19 @@ En 2021 se actualizó la metodología para permitir un enfoque de trabajo totalm
 
 El propósito de este repositorio es que cualquier grupo de personas que quiera replicar este ejercicio pueda encontrar aquí la metodología y herramientas necesarias para hacerlo.
 
+![](/img/diagrama_general.jpg)
+
+## Recursos para organizar una edición
+
+- [Manual del organizador](/docs/manual_organizador.md)
+- [Manual para los participantes](/docs/manual_participantes.md)
+- [Manual del moderador](/docs/manual_moderador.md)
+
+## Tecnología
+
+## Uso de la marca / Licencia o términos de uso
+## Créditos
+
 ## Metodología
 
 ### Definir temáticas 
@@ -27,15 +40,15 @@ Con dos verificaciones se aprueba la publicación al sitio
 
 
 
--Equipo
-  Moderadores
-  Verificadores
-  Expertas
--Guías
-  Moderación
-  Participación
+-Equipo  
+  Moderadores  
+  Verificadores  
+  Expertas  
+-Guías  
+  Moderación  
+  Participación  
 
-- Técnica
-- Uso de la marca
-- Créditos
-Tachi
+- Técnica  
+- Uso de la marca  
+- Créditos  
+Tachi  

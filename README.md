@@ -25,7 +25,7 @@ El propósito de este repositorio es que cualquier grupo de personas que quiera 
 
 ## Créditos
 
-_Versión 1.0
+_Versión 1.0_
 - [Codeando Guadalajara](https://github.com/CodeandoGuadalajara/informebajolupa) / Desarrollo @thehackermonkey
 - Wikipolítica Jalisco
 - Tómala Ya
@@ -34,6 +34,6 @@ _Versión 1.0
 - CIMTRA
 - Calle sin acoso
 
-_Versión 2.0
+_Versión 2.0_
 - Metodología / Tachi Villalba
 - Codeando México /[@basicavisual](https://github.com/basicavisual/), [@almarngl](https://github.com/almarngl/), [@ricardomiron](https://github.com/ricardomiron/)

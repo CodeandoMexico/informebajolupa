@@ -26,7 +26,7 @@ El propósito de este repositorio es que cualquier grupo de personas que quiera 
 ## Créditos
 
 _Versión 1.0_
-- [Codeando Guadalajara](https://github.com/CodeandoGuadalajara/informebajolupa) / Desarrollo @thehackermonkey
+- [Codeando Guadalajara](https://github.com/CodeandoGuadalajara/informebajolupa) / Desarrollo [@thehackermonkey](https://github.com/thehackermonkey/)
 - Wikipolítica Jalisco
 - Tómala Ya
 - Techo

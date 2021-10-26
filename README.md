@@ -16,6 +16,7 @@ El propósito de este repositorio es que cualquier grupo de personas que quiera 
 
 - [Manual del organizador](/docs/manual_organizador.md)
 - [Manual para los participantes](/docs/manual_participantes.md)
+- [Guía de buenas prácticas para particpar y verificar](guia_buenas_practicas.md)
 - [Manual del moderador](/docs/manual_moderador.md)
 
 ## Tecnología

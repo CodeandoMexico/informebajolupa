@@ -1,11 +1,12 @@
-<img src="img/logo-codeando-mexico.png" title="Codeando México">
+![Logo Codeando México](/img/logo-cmx.svg#gh-light-mode-only)
+![Logo Codeando México](/img/logo-cmx-blanco.svg#gh-dark-mode-only)
 
 [![website](https://img.shields.io/badge/website-CodeandoMexico-00D88E.svg)](http://www.codeandomexico.org/)
 [![slack](https://img.shields.io/badge/slack-CodeandoMexico-EC0E4F.svg)](http://slack.codeandomexico.org/)
 
 # Informe Bajo Lupa
 
-<div style="text-align:center"><img width="150" src="img/logo.png" /></div>
+<div style="text-align:center"><img width="150" src="img/logo-informe-bajo-lupa.png" /></div>
 
 Informe Bajo Lupa es un ejercicio abierto y colaborativo entre personas en general, organizaciones de la sociedad civil y expertas en el ámbito político, de revisión de los informes de gobierno locales en México.
 
